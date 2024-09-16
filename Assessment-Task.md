@@ -23,7 +23,7 @@ You must document each item in “Description Process and Commands” column, li
         B. Each version of the project is called a branch.
         C. A commit containing one small change to a project is not practical.
 
-        Answer:
+        Answer: 
 
 2. Which one of these statements about branches is true?
 
@@ -63,7 +63,7 @@ You must document each item in “Description Process and Commands” column, li
         B. A commit is a snapshot of the project.
         C. Only the most recent commit is saved in the repository.
 
-        Answer:
+        Answer: 
 
 7. Which location contains the list of files that will be included in the next commit?
 
@@ -72,7 +72,7 @@ You must document each item in “Description Process and Commands” column, li
         C. Branch
         D. Staging area
 
-        Answer:
+        Answer: 
 
 8. Which location contains the commit history of a project?
 
@@ -162,7 +162,7 @@ You must document each item in “Description Process and Commands” column, li
         C. Pull
         D. Merge
  
-        Answer:
+        Answer:A
 
 
 # Completed Module 1 - Please commit your changes with your answers using GitHub Desktop or Visual Studio
